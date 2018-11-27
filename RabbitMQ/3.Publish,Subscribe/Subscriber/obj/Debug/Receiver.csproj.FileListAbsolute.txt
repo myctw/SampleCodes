@@ -1,0 +1,1 @@
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Receiver\bin\Debug\Receiver.exe.config

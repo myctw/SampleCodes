@@ -1,0 +1,9 @@
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\Sender.exe.config
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\Sender.exe
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\Sender.pdb
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\RabbitMQ.Client.dll
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\bin\Debug\RabbitMQ.Client.xml
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\obj\Debug\Sender.exe
+D:\TestProj\RabbitMQ\3.Publish,Subscribe\Sender\obj\Debug\Sender.pdb
