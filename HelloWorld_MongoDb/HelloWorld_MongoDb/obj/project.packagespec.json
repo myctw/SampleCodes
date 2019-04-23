@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/HelloWorld_MongoDb.csproj",
+    "projectName": "HelloWorld_MongoDb",
+    "projectPath": "/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/HelloWorld_MongoDb.csproj",
+    "outputPath": "/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.8.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/HelloWorld_MongoDb.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

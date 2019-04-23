@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld_MongoDb", "HelloWorld_MongoDb\HelloWorld_MongoDb.csproj", "{74589CC3-A79A-46D3-86D9-37FC3E3F47CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74589CC3-A79A-46D3-86D9-37FC3E3F47CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74589CC3-A79A-46D3-86D9-37FC3E3F47CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74589CC3-A79A-46D3-86D9-37FC3E3F47CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74589CC3-A79A-46D3-86D9-37FC3E3F47CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

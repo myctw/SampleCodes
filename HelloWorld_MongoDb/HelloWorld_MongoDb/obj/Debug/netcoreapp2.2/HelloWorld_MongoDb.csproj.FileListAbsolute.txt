@@ -1,0 +1,11 @@
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/bin/Debug/netcoreapp2.2/HelloWorld_MongoDb.deps.json
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/bin/Debug/netcoreapp2.2/HelloWorld_MongoDb.runtimeconfig.json
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/bin/Debug/netcoreapp2.2/HelloWorld_MongoDb.runtimeconfig.dev.json
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/bin/Debug/netcoreapp2.2/HelloWorld_MongoDb.dll
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/bin/Debug/netcoreapp2.2/HelloWorld_MongoDb.pdb
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/Debug/netcoreapp2.2/HelloWorld_MongoDb.csprojAssemblyReference.cache
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/Debug/netcoreapp2.2/HelloWorld_MongoDb.csproj.CoreCompileInputs.cache
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/Debug/netcoreapp2.2/HelloWorld_MongoDb.AssemblyInfoInputs.cache
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/Debug/netcoreapp2.2/HelloWorld_MongoDb.AssemblyInfo.cs
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/Debug/netcoreapp2.2/HelloWorld_MongoDb.dll
+/Users/mingyi/Documents/vscode/Practice/HelloWorld_MongoDb/HelloWorld_MongoDb/obj/Debug/netcoreapp2.2/HelloWorld_MongoDb.pdb
